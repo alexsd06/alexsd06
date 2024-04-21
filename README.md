@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexSD06.
+- 👋 Hi, I’m @alexsd06.
 - 👀 I’m interested in learning as many new things as I can.
 - 🌱 I’m currently learning how to build an UEFI bootloader.
 - 💞️ I’m looking forward to buidling an OS as a hobby.
